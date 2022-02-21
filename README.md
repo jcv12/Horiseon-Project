@@ -13,7 +13,7 @@ There is no installation required as it is put on github pages
 
 ## Usage
 
-    ![Main page](/Users/john/Desktop/Horiseon-Project/assets/images "The homepage")
+    !(/assets/images/ss.png)
 
 ## Credits
 John Vayianos
