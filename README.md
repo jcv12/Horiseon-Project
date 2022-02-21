@@ -9,7 +9,7 @@
 
 ## Installation
   
-There is no installation required as it is put on github pages/n
+There is no installation required as it is put on github pages
 Page link: https://jcv12.github.io/Horiseon-Project/
 
 ## Credits
