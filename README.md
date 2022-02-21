@@ -13,9 +13,7 @@ There is no installation required as it is put on github pages
 
 ## Usage
 
-    ```md
-    ![main page](assets/images/ss.png)
-    ```
+    ![Main page](/assets/images/ss.png "The homepage")
 
 ## Credits
 John Vayianos
