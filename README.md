@@ -8,8 +8,8 @@
 - I learned to be patient with the smaller details and how to work with GitHub Pages
 
 ## Installation
-
-There is no installation required as it is put on github pages
+  
+There is no installation required as it is put on github pages/n
 Page link: https://jcv12.github.io/Horiseon-Project/
 
 ## Credits
