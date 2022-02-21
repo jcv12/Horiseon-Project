@@ -13,7 +13,7 @@ There is no installation required as it is put on github pages
 
 ## Usage
 
-    !(/assets/images/ss.png)
+    ![](/assets/images/ss.png)
 
 ## Credits
 John Vayianos
